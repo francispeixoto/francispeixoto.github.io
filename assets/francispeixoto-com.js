@@ -367,8 +367,8 @@
   _exports.default = void 0;
 
   var _default = Ember.HTMLBars.template({
-    "id": "zx6Dkj4H",
-    "block": "{\"symbols\":[],\"statements\":[[10,\"div\"],[14,0,\"bg-gray-300 text-black-100 p-8 h-screen\"],[12],[2,\"\\n    \"],[10,\"div\"],[14,0,\"mx-auto mb-4\"],[12],[2,\"\\n        \"],[10,\"div\"],[14,0,\"h-12 flex items-center mb-4 border-b-2 border-black\"],[12],[2,\"\\n                \"],[10,\"a\"],[14,6,\"#\"],[12],[2,\"\\n                    \"],[10,\"h1\"],[14,0,\"font-bold text-2xl\"],[12],[2,\"Francis Peixoto \"],[10,\"span\"],[14,0,\"font-normal\"],[12],[2,\"Product Leadership\"],[13],[2,\"\\n                    \"],[13],[2,\"\\n                \"],[13],[2,\"\\n        \"],[13],[2,\"\\n    \"],[13],[2,\"\\n    Content\\n    \"],[1,[30,[36,1],[[30,[36,0],null,null]],null]],[2,\"\\n\"],[13]],\"hasEval\":false,\"upvars\":[\"-outlet\",\"component\"]}",
+    "id": "oobubryy",
+    "block": "{\"symbols\":[],\"statements\":[[10,\"div\"],[14,0,\"bg-gray-300 text-black-100 p-8 h-screen\"],[12],[2,\"\\n    \"],[10,\"div\"],[14,0,\"mx-auto mb-4\"],[12],[2,\"\\n        \"],[10,\"div\"],[14,0,\"h-12 flex items-center mb-4 border-b-2 border-black\"],[12],[2,\"\\n            \"],[10,\"a\"],[14,6,\"#\"],[12],[2,\"\\n                \"],[10,\"h1\"],[14,0,\"font-bold text-2xl\"],[12],[2,\"Francis Peixoto \"],[10,\"span\"],[14,0,\"font-normal\"],[12],[2,\"Product Leadership\"],[13],[2,\"\\n                \"],[13],[2,\"\\n            \"],[13],[2,\"\\n        \"],[13],[2,\"\\n    \"],[13],[2,\"\\n    Stay tuned for content!\\n    \"],[1,[30,[36,1],[[30,[36,0],null,null]],null]],[2,\"\\n\"],[13]],\"hasEval\":false,\"upvars\":[\"-outlet\",\"component\"]}",
     "meta": {
       "moduleName": "francispeixoto-com/templates/application.hbs"
     }
