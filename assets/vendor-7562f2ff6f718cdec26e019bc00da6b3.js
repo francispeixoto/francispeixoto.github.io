@@ -5387,4 +5387,4 @@ return n},r.n=function(e){var t=e&&e.__esModule?function(){return e.default}:fun
 return r.d(t,"a",t),t},r.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},r.p="",r(r.s=1)}([function(e,t){window._eai_r=require,window._eai_d=define},function(e,t,r){r(0),e.exports=r(2)},function(e,t,r){var n
 "undefined"!=typeof document&&(r.p=(n=document.querySelectorAll("script"))[n.length-1].src.replace(/\/[^/]*$/,"/")),e.exports=function(){_eai_d
 var e=_eai_r
-window.emberAutoImportDynamic=function(t){return 1===arguments.length?e("_eai_dyn_"+t):e("_eai_dynt_"+t)(Array.prototype.slice.call(arguments,1))}}()}])
+window.emberAutoImportDynamic=function(t){return e("_eai_dyn_"+t)}}()}])
